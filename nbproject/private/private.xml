@@ -2,17 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/xampp/htdocs/agendacontatos/js/main.js</file>
-            <file>file:/C:/xampp/htdocs/agendacontatos/css/main.style.css</file>
-            <file>file:/C:/xampp/htdocs/agendacontatos/home.php</file>
-            <file>file:/C:/xampp/htdocs/agendacontatos/class/User.php</file>
-            <file>file:/C:/xampp/htdocs/agendacontatos/class/Contact.php</file>
-            <file>file:/C:/xampp/htdocs/agendacontatos/lib/util.php</file>
-            <file>file:/C:/xampp/htdocs/agendacontatos/updateContact.php</file>
-            <file>file:/C:/xampp/htdocs/agendacontatos/newContact.php</file>
-            <file>file:/C:/xampp/htdocs/agendacontatos/class/Phone.php</file>
-            <file>file:/C:/xampp/htdocs/agendacontatos/ajax/main.ajax.php</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
